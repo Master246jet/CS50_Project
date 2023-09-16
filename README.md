@@ -5,13 +5,11 @@ Mobile Application using Ionic or React Native.
     I don't want to use Swift, as it is only intended for IOS.
     I want to create a cross-mobile application.
 
-React Native - More modern, more recommended but requires time to learn React.
-
-Ionic - I know all the pre requisites, I just have to get used to Ionic. (Less Time)
+Flutter is best choice for multi-platform
+However to upload an IOS app you need to create a virtual workspace in the form of macOS, to use Xcode to then publish as an IOS app. This is for all IOS apps.
 
 Deadline: 31/12/2023
 My Term Ends at: 6-16/1/2024
-Prioritize Time -> Ionic.
 
 Concept:
 I want to create an app that helps me keep myself in check.
